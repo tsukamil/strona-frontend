@@ -238,4 +238,12 @@ h2 {
       font-size: 30px;
       padding-bottom: 32px; }
 
+.logos {
+  height: 200px; }
+  .logos img {
+    width: 100px; }
+    .logos img:hover {
+      opacity: 0.5;
+      cursor: pointer; }
+
 /*# sourceMappingURL=style.css.map */

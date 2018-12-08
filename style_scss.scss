@@ -353,6 +353,22 @@ h2 {
     }
 }
 
+.logos {
+    
+    height: 200px;
+        
+    img {
+        width: 100px;
+        
+        &:hover {
+            opacity: 0.5;
+            cursor: pointer;
+        }
+    }
+    
+    
+}
+
 
 
 

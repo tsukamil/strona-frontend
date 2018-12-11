@@ -44,6 +44,10 @@ h3 {
     margin: 1% 0;
 }
 
+.button:hover {
+    background-color: #05b7a0;
+}
+
 .wrap {
     height: 100%;
     width: 80%;
@@ -85,7 +89,7 @@ h3 {
 iframe {
     //min-height: 300px;
     height: 500px;
-    width: 80%;
+    width: 100%;
 }
 
 /* form {
